@@ -45,12 +45,16 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div>
-    <h3 align="left">📊 GitHub Statistics:</h3>
-    <p align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=upekshadeshapriya&show_icons=true&theme=dark" alt="upeksha deshapriya stats" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=upekshadeshapriya&theme=dark" alt="upeksha deshapriya streak" />
-    </p>
     
+---
+
+### GitHub Statistics:
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Upeksha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=upekshadeshapriya&show_icons=true&count_private=true&theme=radical" height="192px"/></a>
+  <br/>
+</p>
+
+
   </div>
   <div>
     <br>
