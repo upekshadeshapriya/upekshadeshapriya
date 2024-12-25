@@ -39,6 +39,9 @@
   <a href="https://t.me/upekshadeshapriya" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="upeksha deshapriya" height="30" width="40" />
   </a>
+  <a href="https://youtube.com/@luina80s?si=DJky6aRP8krFrRGP" target="_blank">
+    <img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg](https://static.vecteezy.com/system/resources/previews/042/127/234/non_2x/white-square-bordered-youtube-logo-on-transparent-background-free-png.png)" alt="upeksha deshapriya" height="30" width="40" />
+  </a>
 </p>
 
 <hr style="border: 1px solid gray;" />
