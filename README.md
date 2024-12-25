@@ -40,7 +40,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="upeksha deshapriya" height="30" width="40" />
   </a>
   <a href="https://youtube.com/@luina80s?si=DJky6aRP8krFrRGP" target="_blank">
-    <img align="center" src="https://github.com/codewithzan/YouTube-Logo.git" alt="upeksha deshapriya" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/doodle/1x/youtube--v2.png" alt="upeksha deshapriya" height="30" width="40" />
   </a>
 </p>
 
