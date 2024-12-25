@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/upeksha-deshapriya-7a1aa02aa/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bbg4OXHM5QX2ly627ujC2%2Bw%3D%3D" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="upeksha deshapriya" height="30" width="40" />
   </a>
-  <a href="https://fb.com/upeksha-deshapriya" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100081260322624" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="upeksha deshapriya" height="30" width="40" />
   </a>
   <a href="https://t.me/upekshadeshapriya" target="_blank">
