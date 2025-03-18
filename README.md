@@ -5,7 +5,7 @@
 <h1 align="center"><b>Hi , I'm Upeksha Deshapriya </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=..&hearts;++;3D+Modeler,;2D+Animator,;Product+Designer,;Logo+Designer,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=..&hearts;++;2D+Animator,;Product+Designer,;Content+Creator,;Poster+&+Thumbnail+Designer,;Logo+Designer,;3D+Modeler,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -17,11 +17,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=upekshadeshapriya&label=Profile%20views&color=0e75b6&style=flat" alt="upekshadeshapriya" /> </p>
 <hr style="border: 0.5x solid gray;" /> <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on **PandaPiggles**
+- 🔭 I’m currently working on **Plant App**
 
-- 🌱 I’m currently learning **Autodesk Maya | Three JS**
+- 🌱 I’m currently learning **Artificial Interlligence**
 
-- 💬 Ask me about **Autodesk Maya | Krita**
+- 💬 Ask me about **Krita | Photoshop | PremierPro | Canva**
 
 - 📫 How to reach me **upekshadeshapriya@gmail.com**
   </div>
